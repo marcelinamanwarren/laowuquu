@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahlohcaelo.patrickhammond.com/sitemap.xml
